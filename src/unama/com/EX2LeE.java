@@ -19,7 +19,7 @@ public class EX2LeE {
             System.out.println ( " 1º: " + n1);
             System.out.println ( " 2º: " + n2);
             System.out.println ( " 3º: " + n3);
-        } else,  if (n1 > n2 && n2 > n3) {
+        } else if (n1 > n2 && n2 > n3) {
             // 321
             System.out.println ( " 1º: " + n3);
             System.out.println ( " 2º: " + n2);
