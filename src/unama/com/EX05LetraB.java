@@ -2,7 +2,7 @@ package unama.com;
 
 import java.util.Scanner;
 
-public class EX5LetraB {
+public class EX05LetraB {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] vet = new int[10];
